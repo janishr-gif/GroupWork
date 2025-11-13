@@ -30,7 +30,7 @@ This file should explain how scripts run and how they are connected and any othe
 			-Code Instructions
 			-Analysis Description
 
-2.	GroupWork.R is the script used to process this data information 
+2.	GroupWork.R is the script used to process this data information, which can also be found in the GroupWork repository on GitHub. 
 
 3.	The Final_Tidy_Data file was created by summarizing Tidy_Data, grouped by subject and activity and summarizing each column and calculating the mean of each variable.
 
